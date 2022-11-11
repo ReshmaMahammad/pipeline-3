@@ -1,0 +1,3 @@
+dict={"name":"reshma","age":23,"color":"blue"}
+print(dict[2])
+
